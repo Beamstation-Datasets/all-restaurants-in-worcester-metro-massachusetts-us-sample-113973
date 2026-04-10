@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant dataset spanning the Worcester (Metro), Massachusetts metropolitan area including Worcester. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Worcester (Metro), Massachusetts, US",
+  "export_job_id": "6710c4db-71c1-484b-be78-710ddc9f7502",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 113973,
+  "location_name": "Worcester, MA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-worcester-metro-massachusetts-us-sample-113973",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/113973/beamstation_113973_restaurants-us-worcesterma_SAMPLE_DIST.csv",
+  "sample_pct": 1.9,
+  "sample_records": 25,
+  "sample_sha256": "68126a784f511afb5dccc743a73290275677ead10391e8091e3a7c73cf2335ea",
+  "sample_size_bytes": 116434,
+  "total_records": 1316,
+  "updated_at": "2026-03-31T13:34:48.800723+00:00"
+}
