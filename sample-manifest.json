@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6710c4db-71c1-484b-be78-710ddc9f7502",
+  "id_short": 113973,
+  "published_at": "2026-04-10T19:06:21Z",
+  "repo_name": "all-restaurants-in-worcester-metro-massachusetts-us-sample-113973",
+  "sample_asset_name": "beamstation_113973_restaurants-us-worcesterma_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/113973/beamstation_113973_restaurants-us-worcesterma_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "68126a784f511afb5dccc743a73290275677ead10391e8091e3a7c73cf2335ea",
+  "sample_size_bytes": 116434,
+  "total_records": 1316
+}
